@@ -1,0 +1,9 @@
+
+resources/config.json
+resources/featuresConfig.json
+resources/
+node_modules/
+devResources/
+*.log
+.DS_Store
+modules/commandHandler.js
